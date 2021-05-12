@@ -12,9 +12,12 @@
 <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap" rel="stylesheet">
 </head>
 <body>
-	 <header class="top2">
-        <div><!-- 빈공간 --></div> 
+    <div style="border-bottom: gainsboro 1px solid;">
+    <header class="top2">
+        <div> <!-- 빈공간 --></div>
+        
      <div class="toprightbanner">
+         
          <ul>
              <li>
                  <a href="">로그인</a>
@@ -23,19 +26,18 @@
                  <a href="">회원가입</a>
              </li>
              <li>
-                 <a href="" style="width: 100px;">
-                	 <i class="far fa-comments"></i>
-                 </a>        
+                 <a href="" style="width: 100px;"><i class="far fa-comments"></i></a>        
              </li>
              <li>
-                 <a href="">
-                 	<i class="far fa-user"></i>
-                 </a>
+                 <a href=""><i class="far fa-user"></i></a>
              </li>
          </ul>
+        
      </div>
+    
     </header>
-     
+</div>
+<div style="border-bottom: gainsboro 1px solid;">
      <header class="topbanner">
          <div class="leftbanner" style="font-size: 26px;">
              <strong style="margin-left: 10px;"><a href="" style="color: rgb(255, 106, 0); ">yanorazo</a></strong>
@@ -66,8 +68,6 @@
              </ul>
          </div>
      </header>
- 
-    
-     <section class="sectionbody">
- 
-       <!--바디 부분 입니다.-->
+    </div>
+     
+   	  <section class="sectionbody">

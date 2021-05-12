@@ -73,21 +73,4 @@
      </section>
      <section class="sectionbody">
          <!--바디 부분 입니다.-->
-         <div class="leftbody" style="width: 200px; height: 50px;">
-            <ul>
-                <li>1</li>
-                <li>2</li>
-                <li>3</li>
-                <li>4</li>
-            </ul>
-         </div>
-         <div class="center">
-             <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/8CA8/production/_107980063_ronaldo_getty.jpg1.jpg" alt="" style="width: 500px;">
-         </div>
-         <div class="rightbody">
-             <img src="https://newsimg.sedaily.com/2019/05/03/1VIZY67M85_3.png" alt="" style="width: 600px;">
-         </div>
-         <!--바디 부분 입니다.-->
-     <!--</section>
-</body>
-</html> -->
+         
